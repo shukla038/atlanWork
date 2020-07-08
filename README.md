@@ -1,9 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo : [https://shukla038.github.io/aman-react-redux-boilerplate/](https://shukla038.github.io/aman-react-redux-boilerplate/)
-
-UserName : amanshukla_456
-Password : 1234567
+Live Demo : [http://shukla038.github.io/FlightSearchApp/](http://shukla038.github.io/FlightSearchApp/)
 
 ## Available Scripts
 
