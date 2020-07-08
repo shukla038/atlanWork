@@ -20,7 +20,6 @@ export const getPostsListAsync = () => {
     }
     ).then(
             response => {
-                debugger
                 if (response && response.data && response.status === 200) {
                     dispatch(getPostsList(response.data))
                 }
