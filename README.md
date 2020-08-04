@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Live Demo : [http://shukla038.github.io/FlightSearchApp/](http://shukla038.github.io/FlightSearchApp/)
@@ -68,3 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# atlanWork
+>>>>>>> c792df6a7f7895a17b04d44dca14d14923b9bbdd
